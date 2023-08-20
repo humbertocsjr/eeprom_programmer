@@ -4,8 +4,8 @@ This project requires [Arduino MEGA Project](http://danceswithferrets.org/geekbl
 
 ## Executables
 
-Windows: bin/Release/net6.0/win-x64/eeprom_programmer.exe
+Windows: [bin/Release/net6.0/win-x64/eeprom_programmer.exe](https://github.com/humbertocsjr/eeprom_programmer/blob/main/bin/Release/net6.0/win-x64/eeprom_programmer.exe)
 
-Linux: bin/Release/net6.0/linux-x64/eeprom_programmer
+Linux: [bin/Release/net6.0/linux-x64/eeprom_programmer](https://github.com/humbertocsjr/eeprom_programmer/blob/main/bin/Release/net6.0/linux-x64/eeprom_programmer)
 
-macOS: bin/Release/net6.0/osx-x64/eeprom_programmer
+macOS: [bin/Release/net6.0/osx-x64/eeprom_programmer](https://github.com/humbertocsjr/eeprom_programmer/blob/main/bin/Release/net6.0/osx-x64/eeprom_programmer)
