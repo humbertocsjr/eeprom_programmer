@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRT6VHGSb0+clCFHpPUoAndfD3cLhj/JBmD9X5R3OfMbtx8SYK+q1k89xydgfnr//r2n7C6HP8qvOHoO3XrQmg==",
+  "success": true,
+  "projectFilePath": "/home/humberto/Nextcloud/eeprom_programmer/eeprom_programmer.csproj",
+  "expectedPackageFiles": [
+    "/home/humberto/.nuget/packages/runtime.linux-arm.runtime.native.system.io.ports/7.0.0/runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/runtime.linux-arm64.runtime.native.system.io.ports/7.0.0/runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/runtime.linux-x64.runtime.native.system.io.ports/7.0.0/runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/runtime.native.system.io.ports/7.0.0/runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/runtime.osx-arm64.runtime.native.system.io.ports/7.0.0/runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/runtime.osx-x64.runtime.native.system.io.ports/7.0.0/runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/system.io.ports/7.0.0/system.io.ports.7.0.0.nupkg.sha512",
+    "/home/humberto/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/6.0.21/microsoft.netcore.app.runtime.osx-x64.6.0.21.nupkg.sha512",
+    "/home/humberto/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/6.0.21/microsoft.aspnetcore.app.runtime.osx-x64.6.0.21.nupkg.sha512",
+    "/home/humberto/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.21/microsoft.netcore.app.host.osx-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
